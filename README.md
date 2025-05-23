@@ -14,15 +14,19 @@ This is a basic **command-line calculator** built using Python. It allows users 
 2. Run the Python file in your terminal:
    ```bash
    python calculator.py
-3.Follow the prompts:
-         Enter two numbers.
-         Choose an operation symbol (+, -, *, /).
+Follow the prompts:
 
-         
+Enter two numbers.
+
+Choose an operation symbol (+, -, *, /).
+
+📂 Folder Structure
+bash
+Copy
+Edit
 📁 calculator-project/
 │
 ├── calculator.py       # Main Python script
 └── README.md           # Project documentation
-
 📌 Requirements
 Python 3.10+ (required for match-case syntax)
