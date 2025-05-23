@@ -17,3 +17,12 @@ This is a basic **command-line calculator** built using Python. It allows users 
 3.Follow the prompts:
          Enter two numbers.
          Choose an operation symbol (+, -, *, /).
+
+         
+📁 calculator-project/
+│
+├── calculator.py       # Main Python script
+└── README.md           # Project documentation
+
+📌 Requirements
+Python 3.10+ (required for match-case syntax)
