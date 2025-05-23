@@ -14,3 +14,6 @@ This is a basic **command-line calculator** built using Python. It allows users 
 2. Run the Python file in your terminal:
    ```bash
    python calculator.py
+3.Follow the prompts:
+         Enter two numbers.
+         Choose an operation symbol (+, -, *, /).
